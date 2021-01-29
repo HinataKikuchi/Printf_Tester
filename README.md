@@ -3,10 +3,10 @@ To check how's printf works
 
 # How to use?
 
-#### - Clone position
+## - Clone position
 ![Repository's position](https://user-images.githubusercontent.com/58177127/106249478-c0200c00-6255-11eb-81c5-9317dcc6f9a0.png)
 
-#### commands
+## commands
 1. First, You need to go inside of this Repository and Check ` main.c `.(Only main_char isn't comment outed default.)
 You can comment out the function which you don't need.
 Check the functions bellow.
